@@ -1,0 +1,24 @@
+# Executable
+sim_cache
+
+# Object files
+*.o
+
+# Temporary output files
+my_val*.txt
+
+# Zone Identifier files (Windows WSL artifacts)
+*.Zone.Identifier
+
+# macOS files
+.DS_Store
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# Build artifacts
+*.out
+docs/
+.DS_Store:Zone.Identifier
