@@ -1,6 +1,6 @@
 # Cache Simulator
 
-A cache and memory hierarchy simulator for CDA 5106. Simulates L1-only or L1+L2 cache configurations with configurable replacement policies and inclusion properties.
+A cache and memory hierarchy simulator. Simulates L1-only or L1+L2 cache configurations with configurable replacement policies and inclusion properties.
 
 ## Features
 
